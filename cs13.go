@@ -29,3 +29,15 @@ func main() {
 	fmt.Println("Jah")
 	fmt.Println("Fluk")
 	fmt.Println("Meena")
+	fmt.Println("Meen")
+	fmt.Println("Fah")
+	fmt.Println("Dew")
+	fmt.Println("Kiw")
+	fmt.Println("Praew")
+	fmt.Println("Benz")
+	fmt.Println("Top")
+	fmt.Println("Bell")
+	fmt.Println("Zeegame")
+	fmt.Println("Jo")
+
+}
